@@ -15,3 +15,9 @@ header {
     color: red;
 }
 
+@media (min-width: 641px) {
+    .hamburger {
+        display: none;
+    }
+}
+

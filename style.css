@@ -6,3 +6,12 @@ Author: Lucia Supova
 Template: bravada
 Version: 1.0
 */
+
+header {
+    color: red;
+}
+
+.widget-title {
+    color: red;
+}
+

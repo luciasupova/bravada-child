@@ -7,15 +7,6 @@ Template: bravada
 Version: 1.0
 */
 
-header {
-    color: red;
-}
-
-.widget-title {
-    color: red;
-}
-
-
 /* DELETE BURGER MENU FROM DEKSTOP */
 @media (min-width: 641px) {
     .hamburger {

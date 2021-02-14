@@ -41,6 +41,15 @@ body {
     margin-top: 7em;
 }
 
+#site-copyright{
+    font-style: normal;
+}
+
+/* šípečka hore*/
+#footer-bottom #toTop{
+    display: none;
+}
+
 /* DELETE BURGER MENU FROM DEKSTOP */
 @media (min-width: 641px) {
     .hamburger {

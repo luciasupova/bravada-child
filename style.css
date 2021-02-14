@@ -7,6 +7,20 @@ Template: bravada
 Version: 1.0
 */
 
+@font-face {
+    font-family: Nanotech;
+    src: url(NanoTech.otf);
+  }
+
+body {
+    font-family: Nanotech;
+}
+
+/*this is the title*/
+#header-page-title .byline{
+    margin-top: -2.5em;
+}
+
 /* DELETE BURGER MENU FROM DEKSTOP */
 @media (min-width: 641px) {
     .hamburger {

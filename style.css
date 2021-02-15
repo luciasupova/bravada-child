@@ -30,10 +30,19 @@ body {
     font-family: Clarista;
     font-size: 1.2em;
 }
-
-/*side currency*/
+/*side currency
 .woo-multi-currency.wmc-sidebar {
     display: none;
+} */
+
+#media_image-11 img {
+    margin-left: 20em;
+    margin-top: -20em;
+}
+
+#media_image-13 img {
+    margin-left: 40em;
+    margin-top: -50em;
 }
 
 /*font on widgets*/

@@ -37,12 +37,21 @@ body {
 
 #media_image-11 img {
     margin-left: 20em;
-    margin-top: -20em;
+    margin-top: -50em;
 }
 
 #media_image-13 img {
     margin-left: 40em;
-    margin-top: -50em;
+    margin-top: -15em;
+}
+
+.textwidget {
+    margin-left: 15em;
+    padding-bottom: 2em;
+}
+
+#footer-top {
+margin-top: -10em;
 }
 
 /*font on widgets*/

@@ -13,8 +13,8 @@ Version: 1.0
   }
 
   @font-face {
-    font-family: Beauty;
-    src: url(BeautyDemo.otf);
+    font-family: Clarista;
+    src: url(Clarista.otf);
   }
 
 body {
@@ -31,10 +31,6 @@ body {
     font-family: Nanotech;
 }
 
-/*toto mi ani za toho oného nejde*/
-#container .two-columns-right #main .main .entry-title h1 {
-    font-family: Nanotech;
-}
 
 /*put button lower*/
 .woocommerce-buttons-container {

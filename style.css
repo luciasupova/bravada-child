@@ -31,6 +31,11 @@ body {
     font-size: 1.2em;
 }
 
+/*side currency*/
+.woo-multi-currency.wmc-sidebar {
+    display: none;
+}
+
 /*font on widgets*/
 .widget-title span, ul, li, a{
     font-family: Nanotech;

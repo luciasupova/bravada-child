@@ -26,6 +26,10 @@ body {
     margin-top: -2.5em;
 }
 
+#header-page-title .entry-title {
+    font-family: Clarista;
+}
+
 /*font on widgets*/
 .widget-title span, ul, li, a{
     font-family: Nanotech;

@@ -17,13 +17,19 @@ Version: 1.0
     src: url(Clarista.otf);
   }
 
+  @font-face {
+    font-family: Roboto;
+    src: url(Roboto-Regular.ttf);
+  }
+
 body {
-    font-family: Nanotech;
+    font-family: Roboto;
 }
 
 /*this is the title*/
 #header-page-title .byline{
     margin-top: -2.5em;
+    font-family: Nanotech;
 }
 
 #header-page-title .entry-title span {
@@ -52,7 +58,7 @@ body {
 
 /*font on widgets*/
 .widget-title span, ul, li, a{
-    font-family: Nanotech;
+    font-family: Roboto;
 }
 
 

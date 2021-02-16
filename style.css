@@ -45,13 +45,9 @@ body {
     margin-top: -15em;
 }
 
-.textwidget {
-    margin-left: 15em;
-    padding-bottom: 2em;
-}
-
+/*some footer*/
 #footer-top {
-margin-top: -10em;
+    margin-top: -5em;
 }
 
 /*font on widgets*/

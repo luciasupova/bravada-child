@@ -7,6 +7,7 @@ Template: bravada
 Version: 1.0
 */
 
+/*fonts*/
 @font-face {
     font-family: Nanotech;
     src: url(NanoTech.otf);
@@ -22,30 +23,35 @@ Version: 1.0
     src: url(Roboto-Regular.ttf);
   }
 
+/*font for the whole website*/
 body {
     font-family: Roboto;
 }
 
-/*this is the title*/
+/*main page - text under title*/
 #header-page-title .byline{
     margin-top: -2.5em;
     font-family: Nanotech;
 }
 
+/*main page - title*/
 #header-page-title .entry-title span {
     font-family: Clarista;
     font-size: 1.2em;
 }
+
 /*side currency
 .woo-multi-currency.wmc-sidebar {
     display: none;
 } */
 
+/*main page - img left*/
 #media_image-11 img {
     margin-left: 20em;
     margin-top: -50em;
 }
 
+/*main page - img right*/
 #media_image-13 img {
     margin-left: 40em;
     margin-top: -15em;
@@ -56,11 +62,12 @@ body {
     margin-top: -5em;
 }
 
-/*font on widgets*/
+/*font on widgets, nav*/
 .widget-title span, ul, li, a{
     font-family: Roboto;
 }
 
+/*font on nav*/
 nav#mobile-menu #mobile-nav a {
     font-family: Roboto;
 }
@@ -70,11 +77,12 @@ nav#mobile-menu #mobile-nav a {
     margin-top: 7em;
 }
 
+/*copyright - in normal style*/
 #site-copyright{
     font-style: normal;
 }
 
-/* šípečka hore*/
+/*delete arrow up*/
 #footer-bottom #toTop{
     display: none;
 }
